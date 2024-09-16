@@ -1,0 +1,589 @@
+[13-Sep-2024 20:54:27 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[13-Sep-2024 20:54:29 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[13-Sep-2024 20:54:29 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[13-Sep-2024 20:54:30 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[13-Sep-2024 20:54:31 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[13-Sep-2024 20:54:32 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[13-Sep-2024 20:54:33 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[13-Sep-2024 20:54:54 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 04:46:35 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 04:46:36 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 04:46:36 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 04:46:37 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 04:48:12 America/Boise] PHP Parse error:  syntax error, unexpected identifier "dd", expecting "function" or "const" in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 13
+[14-Sep-2024 04:48:14 America/Boise] PHP Parse error:  syntax error, unexpected identifier "dd", expecting "function" or "const" in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 13
+[14-Sep-2024 04:48:15 America/Boise] PHP Parse error:  syntax error, unexpected identifier "dd", expecting "function" or "const" in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 13
+[14-Sep-2024 04:49:20 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 04:49:23 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 04:57:16 America/Boise] PHP Warning:  Undefined variable $routes in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 21
+[14-Sep-2024 05:00:27 America/Boise] PHP Parse error:  syntax error, unexpected variable "$controller", expecting ")" in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 23
+[14-Sep-2024 05:00:29 America/Boise] PHP Parse error:  syntax error, unexpected variable "$controller", expecting ")" in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 23
+[14-Sep-2024 05:00:30 America/Boise] PHP Parse error:  syntax error, unexpected variable "$controller", expecting ")" in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 23
+[14-Sep-2024 05:13:11 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:11 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:11 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:11 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:11 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:11 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:38 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:38 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:38 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:38 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:38 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:38 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:40 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:41 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:41 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:41 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:41 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:41 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:41 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:56 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 05:13:59 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:59 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:59 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 05:13:59 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 05:14:01 America/Boise] PHP Warning:  Undefined variable $product in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 82
+[14-Sep-2024 05:14:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php:82
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#1 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#2 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#3 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 82
+[14-Sep-2024 05:20:25 America/Boise] PHP Warning:  Undefined variable $product in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 82
+[14-Sep-2024 05:20:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php:82
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#1 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#2 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#3 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 82
+[14-Sep-2024 05:41:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Database::prepare() in /home4/xhfgazmy/test.app-eg.org/App/Models/DVD.php:39
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php(82): App\Models\DVD->save()
+#1 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#2 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#3 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#4 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Models/DVD.php on line 39
+[14-Sep-2024 08:32:48 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 08:32:49 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 08:38:13 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 09:17:05 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 09:17:05 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 09:17:05 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 09:17:05 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 09:54:10 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:03:30 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:03:30 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:03:31 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:03:31 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:08:17 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:08:17 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:08:17 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:08:17 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:08:18 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:08:18 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:08:18 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:08:18 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:08:20 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:08:20 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:08:20 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:08:20 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:11:30 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:11:30 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:11:59 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:11:59 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:12:18 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:12:18 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:12:19 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:12:47 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:12:47 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:12:53 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:12:53 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:12:53 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:12:53 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:12:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:12:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:12:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:12:56 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:13:04 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:13:04 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:13:04 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:16:21 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:16:22 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:17:06 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:17:06 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:17:08 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:17:08 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:17:44 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:17:45 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:25 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:25 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:25 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:29 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:29 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:29 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:29 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:29 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:30 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:40 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:42 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:42 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:42 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:42 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:51 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:51 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:51 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:51 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:51 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:51 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:54 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:54 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:54 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:23:54 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:54 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:23:54 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:24:55 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:24:56 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:07 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:09 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:21 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:21 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:22 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:34 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:34 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:35 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:47 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:48 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:25:48 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:25:48 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:25:48 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:48 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/xhfgazmy/test.app-eg.org/views/layout/header.php:1) in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 83
+[14-Sep-2024 10:25:48 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:48 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:25:49 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:26:01 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:26:02 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:26:02 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:26:02 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:26:02 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:26:03 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SKUTest000' for key 'sku' in /home4/xhfgazmy/test.app-eg.org/Core/Database.php:29
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Database.php(29): PDOStatement->execute(Array)
+#1 /home4/xhfgazmy/test.app-eg.org/App/Models/Furniture.php(50): Core\Database->query('INSERT INTO pro...', Array)
+#2 /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php(82): App\Models\Furniture->save()
+#3 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#4 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#5 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#6 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/Core/Database.php on line 29
+[14-Sep-2024 10:26:03 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:26:04 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:29:28 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:29:28 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:29:28 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:29:28 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:29:29 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:29:29 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:29:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Database::prepare() in /home4/xhfgazmy/test.app-eg.org/App/Models/Book.php:33
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php(82): App\Models\Book->save()
+#1 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#2 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#3 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#4 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Models/Book.php on line 33
+[14-Sep-2024 10:30:05 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:24 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:24 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:24 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:24 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:32 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:34 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:34 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:34 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:34 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:34 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:34 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:35 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:35 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:35 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:35 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:37 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:37 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:37 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:39 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:39 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:39 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:30:39 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:40 America/Boise] PHP Warning:  Undefined variable $product in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 82
+[14-Sep-2024 10:30:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php:82
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#1 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#2 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#3 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 82
+[14-Sep-2024 10:30:40 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:40 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:30:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Database::prepare() in /home4/xhfgazmy/test.app-eg.org/App/Models/Book.php:33
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php(82): App\Models\Book->save()
+#1 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#2 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#3 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#4 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Models/Book.php on line 33
+[14-Sep-2024 10:31:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Database::prepare() in /home4/xhfgazmy/test.app-eg.org/App/Models/DVD.php:39
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php(82): App\Models\DVD->save()
+#1 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#2 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#3 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#4 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Models/DVD.php on line 39
+[14-Sep-2024 10:39:48 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:39:48 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:39:48 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:39:48 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:39:49 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:39:49 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:39:55 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:39:56 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:39:56 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:39:56 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:40:00 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:40:01 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:40:01 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:40:02 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:40:02 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:40:02 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:40:02 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:40:13 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '101' for key 'sku' in /home4/xhfgazmy/test.app-eg.org/Core/Database.php:29
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Database.php(29): PDOStatement->execute(Array)
+#1 /home4/xhfgazmy/test.app-eg.org/App/Models/DVD.php(39): Core\Database->query('INSERT INTO pro...', Array)
+#2 /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php(82): App\Models\DVD->save()
+#3 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#4 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#5 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#6 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/Core/Database.php on line 29
+[14-Sep-2024 10:40:29 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:40:29 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:41:02 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:41:02 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:41:02 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:41:02 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:41:02 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:41:02 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:41:10 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:41:10 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:41:10 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:41:10 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:41:12 America/Boise] PHP Warning:  Undefined variable $product in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 82
+[14-Sep-2024 10:41:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php:82
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#1 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#2 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#3 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 82
+[14-Sep-2024 10:41:15 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/xhfgazmy/test.app-eg.org/views/layout/header.php:1) in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 83
+[14-Sep-2024 10:41:15 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:41:15 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:41:15 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:41:16 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:41:16 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:41:51 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:41:53 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:06 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:08 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:22 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:22 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:23 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:36 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:37 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:39 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:52 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:52 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:42:52 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:42:52 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:42:52 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:53 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SKUTest000' for key 'sku' in /home4/xhfgazmy/test.app-eg.org/Core/Database.php:29
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Database.php(29): PDOStatement->execute(Array)
+#1 /home4/xhfgazmy/test.app-eg.org/App/Models/Furniture.php(50): Core\Database->query('INSERT INTO pro...', Array)
+#2 /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php(82): App\Models\Furniture->save()
+#3 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#4 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#5 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#6 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/Core/Database.php on line 29
+[14-Sep-2024 10:42:53 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:42:54 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:43:08 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:43:08 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:43:08 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:43:08 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 10:43:08 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:43:10 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SKUTest000' for key 'sku' in /home4/xhfgazmy/test.app-eg.org/Core/Database.php:29
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Database.php(29): PDOStatement->execute(Array)
+#1 /home4/xhfgazmy/test.app-eg.org/App/Models/Furniture.php(50): Core\Database->query('INSERT INTO pro...', Array)
+#2 /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php(82): App\Models\Furniture->save()
+#3 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#4 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#5 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#6 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/Core/Database.php on line 29
+[14-Sep-2024 10:43:10 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:43:12 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:46:45 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:46:46 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:46:46 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:49:16 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:49:16 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 10:49:17 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 11:39:34 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 12:28:38 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 12:28:38 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 12:28:38 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 12:28:40 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 12:55:04 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 12:55:05 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 14:45:02 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 14:45:03 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 14:54:38 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 14:54:39 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 15:57:02 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:18:42 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:18:42 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:18:43 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:18:43 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:18:43 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:18:49 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:18:49 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:18:49 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:18:49 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:18:55 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:18:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:18:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:18:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:18:56 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:18:57 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:20:02 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:20:06 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:20:06 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:20:25 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:20:25 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:20:31 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:20:31 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:20:31 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:20:31 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:20:34 America/Boise] PHP Warning:  Undefined variable $product in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 99
+[14-Sep-2024 16:20:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php:99
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#1 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#2 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#3 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 99
+[14-Sep-2024 16:21:51 America/Boise] PHP Warning:  Undefined variable $product in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 99
+[14-Sep-2024 16:21:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php:99
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#1 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#2 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#3 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 99
+[14-Sep-2024 16:21:52 America/Boise] PHP Warning:  Undefined variable $product in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 99
+[14-Sep-2024 16:21:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php:99
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#1 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#2 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#3 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 99
+[14-Sep-2024 16:22:52 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:40:10 America/Boise] PHP Warning:  Undefined variable $product in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 105
+[14-Sep-2024 16:40:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php:105
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#1 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#2 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#3 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 105
+[14-Sep-2024 16:40:10 America/Boise] PHP Warning:  Undefined variable $product in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 105
+[14-Sep-2024 16:40:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php:105
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#1 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#2 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#3 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 105
+[14-Sep-2024 16:40:11 America/Boise] PHP Warning:  Undefined variable $product in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 105
+[14-Sep-2024 16:40:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php:105
+Stack trace:
+#0 /home4/xhfgazmy/test.app-eg.org/Core/Router.php(22): App\Controllers\ProductController->store()
+#1 /home4/xhfgazmy/test.app-eg.org/routes.php(13): Core\Router->dispatch('/add-product')
+#2 /home4/xhfgazmy/test.app-eg.org/public/index.php(18): require('/home4/xhfgazmy...')
+#3 {main}
+  thrown in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 105
+[14-Sep-2024 16:40:16 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/xhfgazmy/test.app-eg.org/views/layout/header.php:1) in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 106
+[14-Sep-2024 16:40:16 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:40:36 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:40:36 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:40:45 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:40:45 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:41:08 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:41:08 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:41:08 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:41:08 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:41:27 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/xhfgazmy/test.app-eg.org/views/layout/header.php:1) in /home4/xhfgazmy/test.app-eg.org/App/Controllers/ProductController.php on line 106
+[14-Sep-2024 16:41:27 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:41:36 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:43:50 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:43:50 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:43:51 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:43:51 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:43:51 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:43:51 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:44:09 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:44:15 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:44:17 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:16 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:17 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:43 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:45 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:45 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:45 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:45 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:45 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:45 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:45 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:46 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:51 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:52 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:52 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:52 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:52 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:52 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:52 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:52 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:53 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:53 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:53 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:53 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:53 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:53 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:53 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:54 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:54 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:54 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:54 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:54 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:55 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:55 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:55 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:55 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:55 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:55 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:55 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:56 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:56 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:56 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:56 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:45:56 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:57 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:45:57 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:26 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:27 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:27 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:27 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:27 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:27 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:28 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:33 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:33 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:34 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:34 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:34 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:34 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:34 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:34 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:34 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:35 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:35 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:35 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:35 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:35 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:35 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:35 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:35 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:36 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:36 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:36 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:36 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:36 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:36 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:36 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:37 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:37 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:37 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:37 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:37 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:38 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:38 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:38 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:38 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 16:47:38 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:39 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 16:47:39 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 17:08:30 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 17:08:32 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 17:08:36 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 17:09:42 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 17:09:48 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 17:09:48 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 17:09:48 America/Boise] PHP Warning:  Undefined array key "productType" in /home4/xhfgazmy/test.app-eg.org/views/products/create.view.php on line 70
+[14-Sep-2024 17:09:48 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 17:09:51 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 20:13:40 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 20:13:40 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 20:13:40 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 20:13:42 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 22:10:33 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[14-Sep-2024 23:10:51 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[15-Sep-2024 08:34:05 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[15-Sep-2024 09:39:55 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[15-Sep-2024 15:36:43 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[15-Sep-2024 15:37:05 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[15-Sep-2024 15:37:05 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[15-Sep-2024 19:30:34 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[15-Sep-2024 22:15:44 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[15-Sep-2024 23:11:44 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[15-Sep-2024 23:17:31 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[16-Sep-2024 00:05:48 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[16-Sep-2024 00:05:59 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[16-Sep-2024 00:05:59 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[16-Sep-2024 02:12:03 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
+[16-Sep-2024 02:12:03 America/Boise] PHP Fatal error:  Cannot declare class Core\Router, because the name is already in use in /home4/xhfgazmy/test.app-eg.org/Core/Router.php on line 5
